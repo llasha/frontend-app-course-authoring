@@ -30,3 +30,5 @@ src/i18n/messages/
 
 # environment js config
 env.config.jsx
+
+.npmrc
